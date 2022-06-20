@@ -1,6 +1,7 @@
 anytree
 appdirs
 aria2p
+ffmpeg
 asyncio
 attrdict
 beautifulsoup4
